@@ -1,0 +1,31 @@
+.brand-bg {
+  background-image: url("https://i.ibb.co/hV2W04K/cCPFMg.jpg");
+  /* background-image: url("https://i.ibb.co/DpMQmnf/wp2004259.jpg"); */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  opacity: 0.9;
+  padding-right: 20%;
+  padding-bottom: 30px;
+}
+.brand-title {
+  font-weight: 700;
+  text-shadow: 3px 3px 5px rgb(207, 29, 59);
+  letter-spacing: 10px;
+  font-size: 37px;
+  text-align: center;
+}
+.brand-img {
+  width: 300px;
+  height: 300px;
+  opacity: 10;
+  box-shadow: 7px 7px 12px rgb(248, 180, 208),
+    -10px -10px 12px rgb(242, 216, 245);
+  /* background-color: hotpink; */
+  padding: 20px;
+}
+.brand-card {
+  border: none;
+  background: unset;
+}

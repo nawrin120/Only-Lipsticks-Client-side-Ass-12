@@ -1,0 +1,19 @@
+.login-input-field {
+  display: block;
+  margin: auto;
+  width: 350px;
+  border: none;
+  padding: 3px 10px;
+  border-radius: 8px;
+  box-shadow: 7px 7px 12px rgb(179, 176, 176), -7px -7px 12px rgb(245, 245, 245);
+}
+.log-registerBtn {
+  color: green;
+  font-weight: 700;
+  border: 1px solid rgb(151, 0, 0);
+}
+.login-link-btn {
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 22px;
+}

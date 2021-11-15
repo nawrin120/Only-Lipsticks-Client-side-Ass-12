@@ -1,0 +1,24 @@
+.addLipstick-form {
+  width: 90%;
+  margin: auto;
+}
+.addLipstick-form input,
+textarea {
+  display: block;
+  margin-top: 15px;
+  width: 100%;
+  border: none;
+  box-shadow: 5px 5px 10px rgb(165, 164, 164);
+  padding: 3px 10px;
+  border-radius: 10px;
+}
+.add-lipstick-Imgcard {
+  border: none;
+}
+.add-Lip-btn {
+  width: 50% !important;
+  margin: auto;
+  color: rgb(4, 128, 0);
+  font-weight: 800;
+  border: 1px solid red !important;
+}

@@ -1,0 +1,35 @@
+.banner-container {
+  background-image: url("https://i.ibb.co/R0XwWtX/main1.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+
+  /* position: relative; */
+}
+
+.banner-left {
+  margin-top: 35%;
+}
+.banner-title {
+  font-size: 45px;
+  font-family: serif;
+  letter-spacing: 11px;
+  margin-bottom: 20px;
+  font-weight: 800;
+}
+.banner-qutes {
+  font-family: cursive;
+  letter-spacing: 5px;
+  font-weight: 500;
+}
+.banner-span {
+  color: rgb(148, 2, 2);
+}
+.banner-png {
+}
+.banner-png img {
+  width: 95%;
+  margin-bottom: 100px;
+  margin-top: 30%;
+}

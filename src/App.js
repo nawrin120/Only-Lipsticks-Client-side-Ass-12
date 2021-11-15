@@ -1,23 +1,49 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter, Switch, Route } from "react-router-dom";
+import "./App.css";
+import AuthProvider from "./contexts/AuthProvider";
+import Dashboard from "./pages/Dashboard/Dashboard/Dashboard";
+import Explores from "./pages/Explore/Explores";
+import Home from "./pages/Home/Home/Home";
+import Login from "./pages/Login/Login/Login";
+import PlaceOrder from "./pages/Login/PlaceOrder/PlaceOrder";
+import PrivateRoute from "./pages/Login/PrivateRoute/PrivateRoute";
+import Register from "./pages/Login/Register/Register";
+import NotMatch from "./pages/NotMatch/NotMatch";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <AuthProvider>
+        <BrowserRouter>
+          <Switch>
+            <Route exact path="/">
+              <Home></Home>
+            </Route>
+            <Route path="/home">
+              <Home></Home>
+            </Route>
+
+            <Route path="/explore">
+              <Explores></Explores>
+            </Route>
+            <PrivateRoute path="/dashboard">
+              <Dashboard></Dashboard>
+            </PrivateRoute>
+            <Route path="/login">
+              <Login></Login>
+            </Route>
+            <PrivateRoute path="/placeorder/:id">
+              <PlaceOrder></PlaceOrder>
+            </PrivateRoute>
+            <Route path="/register">
+              <Register></Register>
+            </Route>
+            <Route path="*">
+              <NotMatch></NotMatch>
+            </Route>
+          </Switch>
+        </BrowserRouter>
+      </AuthProvider>
     </div>
   );
 }

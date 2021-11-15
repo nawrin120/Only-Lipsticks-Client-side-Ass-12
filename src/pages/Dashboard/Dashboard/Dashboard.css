@@ -1,0 +1,49 @@
+.dash-container {
+  width: 100%;
+}
+.dash-body {
+  width: 96%;
+}
+.dashbord {
+  background-color: pink;
+  line-height: 60px;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 15px;
+  text-transform: uppercase;
+  font-family: serif;
+}
+.desh-logo {
+  width: 50%;
+}
+.dash-link-container {
+  border-right: 2px solid red;
+  padding-left: 13px;
+}
+
+.route-link {
+  margin-top: 70px;
+}
+/* .route-link {
+  margin: auto;
+  position: fixed;
+  top: 40%;
+  left: 10%;
+} */
+.dash-link a {
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  margin-top: 25px;
+  font-weight: 700;
+  color: black;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 5px plum;
+}
+.log-out {
+  border: 1px solid red;
+  color: green;
+  box-shadow: 5px 5px 12px gray;
+  border-radius: 6px;
+  font-weight: 700;
+}

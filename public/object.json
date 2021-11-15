@@ -1,0 +1,94 @@
+[
+  {
+    "img": "https://i.ibb.co/Hr7dpDG/img-1.jpg",
+    "name": "Rodin Olio Lusso Luxury Lipstick",
+    "description": "These luxurious lipsticks might as well double as decor they are just that beautiful.The lipsticks are housed in clear plastic bullets so the core of the exact shade of the lipstick right off the bat.The actual formula is extremely pigmented.",
+    "finish": "Matte",
+    "skintone": "Oil",
+    "price": "38"
+  },
+
+  {
+    "img": "https://i.ibb.co/ZgS1GtF/img-7.jpg",
+    "name": "Maybelline Shine Compulsion Lipstick in Scarlet Flame",
+    "description": "Bring on brilliant shine that melts onto lips with Shine Compulsion Lipstick Makeup by Color Sensational. From nude lipstick to red lipstick and every shade in between, get beautifully hydrated and pigmented lips with Maybelline is most irresistible shine.",
+    "finish": "Ultra Shiny ",
+    "skintone": "All",
+    "price": "7"
+  },
+
+  {
+    "img": "https://i.ibb.co/LS1HLvm/img-3.jpg",
+    "name": "Organic Skin Co. Cheeky Lips Jar",
+    "description": "Though it is more of a lip tint than a full-on lipstick,call it as such since the pigment is honestly prettier and longer-lasting than the majority of lipsticks.Specially organic ones. This adorable pot is newest obsession, which discovered courtesy of Jillian Wright, the co-founder of the Indie Beauty Expo.For a cream formula  it exceeds all expectations.",
+    "finish": "Natural Tint ",
+    "skintone": "All",
+    "price": "42"
+  },
+  {
+    "img": "https://i.ibb.co/SsdThk6/img-4.jpg",
+    "name": "Kosas Cosmetics Weightless Lip Color",
+    "description": "All the lipstick shades are formulated to not only complement but really enhance your natural skin tone, so they are super flattering. (This is coming from someone who categorically hates lipstick.) After a makeup artist sang the praises of Kosas Lipstick in Rosewater, describing it as a soft but still present tone,",
+    "finish": "Creamy ",
+    "skintone": "All",
+    "price": "28"
+  },
+  {
+    "img": "https://i.ibb.co/m6GkSSp/img-5.jpg",
+    "name": "M.A.C Cremesheen Lipstick",
+    "description": "The iconic product that made M·A·C famous. A beautiful bright red with yellow undertones, perfectly classic for most brides in this sub-continent.A creamy, balmy Lipstick formula with a comforting feel, medium buildable coverage and a semi-glossy finish.",
+    "finish": " Creamy",
+    "skintone": " Warm/Olive",
+    "price": "19"
+  },
+  {
+    "img": "https://i.ibb.co/n7fZRd1/img-6.jpg",
+    "name": "Colourpop Ultra Matte Lip in Creeper",
+    "description": "Ultra Matte Lip This thin, lightweight formula smoothly glides on the lips leaving SUPER intense pigment with a bold, ultra-matte look. It is very long-wearing.An affordable, long-lasting, classic, blue-tinted red. Top it off with a lip-gloss for that perfect pout.",
+    "finish": "Matte",
+    "skintone": "Cool/Neutral",
+    "price": "7"
+  },
+
+  {
+    "img": "https://i.ibb.co/5vL6cfT/img-2.jpg",
+    "name": "Charlotte Tilbury",
+    "description": "The shades are all super flattering on a wide array of skin tones, and the queen of creating the perfect pinky-nudes, reds, and berry shades.Matte revolution lipsticks for the formula (velvety-matte without ever being drying) and shade selection.",
+    "finish": "Satin ",
+    "skintone": "Cool",
+    "price": "34"
+  },
+
+  {
+    "img": "https://i.ibb.co/pxxktRC/img-8.jpg",
+    "name": "NARS Audacious Lipstick in Annabella",
+    "description": "NARS Audacious Lipstick provides bold coverage, long-lasting color, and a luxurious texture that smooths and nourishes your lips all day long.A gorgeous poppy red, giving perfect coverage in just one stroke.",
+    "finish": "Satin ",
+    "skintone": "Cool",
+    "price": "32"
+  },
+  {
+    "img": "https://i.ibb.co/6wZgff1/img-9.jpg",
+    "name": "Tom Ford Lip Colour in Scarlet Rouge",
+    "description": "A bold and warm red to make you the centre of attention on the big day. As Tom Ford says,A lipstick has the power to define your whole look.It is very long-wearing.An affordable, long-lasting, classic.",
+    "finish": "Ultra Creamy ",
+    "skintone": "Cool",
+    "price": "55"
+  },
+  {
+    "img": "https://i.ibb.co/SvsPJqm/img-10.jpg",
+    "name": "Jordana Sweet Cream Matte Liquid Lip Colour ",
+    "description": "This delicious buttercream-frosting scented shade looks as good as it smells. The formula is very comfortable and the pigment is dessert-rich!Indulge in a light, creamy-whipped feel and dessert-rich shades like Cherry Cobbler and Red Velvet Cake. ",
+    "finish": "Velvet Matte ",
+    "skintone": "Neutral/Warm",
+    "price": "5"
+  },
+  {
+    "img": "https://i.ibb.co/y5yMbLM/img-11.jpg",
+    "name": "Golden Rose",
+    "description": "Golden Rose Velvet Matte Lipstick creates matte velvety finish on the lips with its high pigmented and long wearing formula. Smoothly glides, nourishes .Infused with a drop of vitamin A—Sweet Cream Matte Liquid Lip Color keeps lips comfortable and never dry",
+    "finish": "Creamy ",
+    "skintone": "All",
+    "price": "6"
+  }
+]

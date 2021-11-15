@@ -1,0 +1,33 @@
+.header {
+  background-color: #ffd1dc !important;
+}
+.logo {
+  color: black !important;
+  font-size: 24px;
+  font-family: serif;
+  font-weight: 600;
+}
+.logo span {
+  color: brown !important;
+}
+.header-logo {
+  width: 60px;
+  margin-right: 15px;
+}
+.header-link {
+  color: #950126 !important
+    ;
+  font-size: 25px;
+  font-weight: 700;
+  font-family: cursive;
+}
+.header-login-btn {
+  color: #950126 !important ;
+  font-size: 25px;
+  font-weight: 700;
+  font-family: cursive;
+}
+.das-btn {
+  border: none;
+  background: none;
+}

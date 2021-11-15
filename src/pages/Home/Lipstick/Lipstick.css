@@ -1,0 +1,29 @@
+.home-lip {
+  margin-top: 30px;
+  border: none;
+  border-radius: 30px;
+  box-shadow: inset 10px 10px 15px #928d8e, -10px -10px 15px #ebcdd2;
+}
+.home-lip img {
+  width: 80%;
+  margin-top: 20px;
+  margin: auto;
+}
+.lipstick-btn {
+  padding: 3px 10px;
+  border: none;
+  box-shadow: 5px 5px 10px rgb(121, 104, 104), -3px -3px 6px rgb(245, 233, 247);
+  border-radius: 8px;
+  color: rgb(240, 238, 238);
+  background-color: plum;
+  font-weight: 600;
+}
+.booking-btn {
+  border: none;
+  padding: 3px 20px;
+  border-radius: 8px;
+  background-color: rgb(146, 0, 0);
+  color: whitesmoke;
+  font-weight: 700;
+  box-shadow: 7px 7px 12px rgb(182, 180, 180);
+}

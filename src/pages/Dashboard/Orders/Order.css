@@ -1,0 +1,26 @@
+.order-card {
+  border: none;
+  box-shadow: 6px 6px 12px rgb(173, 163, 163), -6px -6px 12px rgb(255, 216, 245);
+}
+.order-img img {
+  width: 50%;
+  margin: auto;
+}
+.remove-order {
+  border: none;
+  border-radius: 7px;
+  background-color: rgb(246, 76, 76);
+  color: whitesmoke;
+  font-weight: 600;
+  padding: 3px 12px;
+  box-shadow: 6px 6px 12px rgb(126, 119, 119), -2px -2px 5px rgb(238, 238, 238);
+}
+
+.confirmBtn {
+  border: none;
+  color: aliceblue;
+  background-color: green;
+  box-shadow: 7px 7px 12px rgb(189, 188, 188);
+  padding: 3px 10px;
+  border-radius: 8px;
+}
