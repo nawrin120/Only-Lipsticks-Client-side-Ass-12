@@ -2,7 +2,7 @@
 
 ## We only select products we hope you’ll love. We may earn a commission on anything bought through our links.
 
-Live Link : []().
+Live Link : [https://lip-queens.web.app/](https://lip-queens.web.app/).
 
 - Luxury Lipstick Brands That Will Make You Feel Fancy, No Matter Your Outfit.
 - When it comes to lipstick, performance is essential. A lipstick should last throughout your workday, a coffee break.
